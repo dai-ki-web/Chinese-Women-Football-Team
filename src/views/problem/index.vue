@@ -1,7 +1,10 @@
 <template>
   <div class="problem" id="problem">
     <div class="liner-title">
-      <h2 class="title"><span>女足困境</span>——现状与未来，振兴之路何方</h2>
+      <div class="title" style="color: #fff;">
+        <el-image :src="football"></el-image>
+        <h2><span>女足困境</span>——现状与未来，振兴之路何方</h2>
+      </div>
       <div>
         <div>
           <p>中国女足夺冠的消息传来后</p>
@@ -30,7 +33,7 @@
     <!-- a -->
     <div>
       <div class="sub-title">
-        <h3>"选才困境：国家队征召球员局限，俱乐部输送人才无力"</h3>
+        <h3>选才困境：国家队征召球员局限，俱乐部输送人才无力</h3>
       </div>
       <section class="section">
         <p>中国女足国家队现役球员（共23人）中，来自武汉车谷江大女足和上海农商银行女足2支队伍的球员占比约70%（共15人）。相比之下，其他省市俱乐部被征召的球员凤毛麟角。</p>
@@ -44,7 +47,7 @@
     <!-- b -->
     <div>
       <div class="sub-title">
-        <h3>"成长困境：俱乐部状态不稳定，联赛球员流动频繁"</h3>
+        <h3>成长困境：俱乐部状态不稳定，联赛球员流动频繁</h3>
       </div>
       <section class="section">
         <p>中国女足国家队现役球员（共23人）中，有11人（均在2022年女足亚洲杯淘汰赛中首发上场，为国家队主力球员）在近3年内进行过俱乐部转会。</p>
@@ -59,7 +62,7 @@
     <!-- c -->
     <div>
       <div class="sub-title">
-        <h3>"关注困境：球迷观赛动机较弱，忠诚度和持续性差"</h3>
+        <h3>关注困境：球迷观赛动机较弱，忠诚度和持续性差</h3>
       </div>
       <section class="section">
         <p>近5年，中国女足关注度整体小于中国男足，女足赛事热度骤升骤降的情况较为普遍。女足球迷的性别分布差异大（男多女少）且地域分布不均衡（主要来自北京、上海等一线城市，其他省市球迷较少）。</p>
@@ -90,10 +93,12 @@
     </div>
   </div>
 </template>
+
 <script>
   export default {
     data() {
       return {
+        football: require("@/assets/images/football.svg")
       }
     }
   }

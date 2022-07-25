@@ -70,7 +70,7 @@ body {
     color: #fff;
     font-style: italic;
     font-weight: 700;
-    text-shadow: 5px 5px 10px #909090;
+    text-shadow: 5px 5px 5px #000;
     letter-spacing: 5px;
   }
 
@@ -149,13 +149,24 @@ body {
 }
 
 .title {
-  margin: 0;
-  font-size: 24px;
-  padding-left: 20px;
-  line-height: 66px;
+  display: flex;
+  align-items: center;
+
+  h2 {
+    margin: 0;
+    font-size: 24px;
+    padding-left: 20px;
+    line-height: 66px;
+  }
+
+
 
   span {
     font-size: 30px;
+  }
+
+  .el-image {
+    height: 50px;
   }
 }
 
@@ -205,8 +216,10 @@ body {
   .liner-end {
     background: linear-gradient(#fff, #a93b2a);
     border: none;
+    margin-top: 100px;
 
     &>div {
+      padding: 220px 0 120px 0;
       text-align: center;
 
       &>div {
@@ -232,5 +245,44 @@ body {
     left: 50%;
     transform: translateX(-50%);
     width: 80%;
+  }
+}
+
+.dy-chart {
+  display: flex;
+  justify-content: center;
+}
+
+.highlight {
+  text-align: center;
+  color: #902b25;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.sub-title {
+  margin: 0 auto;
+  width: 80%;
+  position: relative;
+  text-align: center;
+  color: #fff;
+  font-size: 21px;
+  font-style: italic;
+  background-color: #9ba447;
+  text-shadow: 5px 5px 5px #000;
+  line-height: 80px;
+
+  ::before {
+    content: "“";
+    position: absolute;
+    top: -10px;
+    left: 0px;
+  }
+
+  ::after {
+    content: "”";
+    position: absolute;
+    bottom: -20px;
+    right: 20px;
   }
 }

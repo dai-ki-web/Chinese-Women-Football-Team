@@ -1,9 +1,14 @@
 <template>
   <div class="history" id="history">
-    <div>
-      <h2 class="title"><span>回溯历史</span>——四十年风雨，如何遇见彩虹</h2>
+    <div class="title">
+      <el-image :src="football"></el-image>
+      <h2>
+        <span>回溯历史</span>——四十年风雨，如何遇见彩虹
+      </h2>
     </div>
-    <div>小导航窗</div>
+    <div>
+      <div>小导航窗</div>
+    </div>
     <section class="section">
       <p>在历史上，足球在中国以“蹴鞠”之名出现。中国古代女子不仅爱好琴棋书画，也同样喜欢蹴鞠、捶丸、马球。</p>
       <p>早在汉代，中国女子蹴鞠运动就有记载。河南南阳汉画像石系列中有三块“女子蹴鞠”画像石，画面中梳着高髻，长袖舒展，英姿飒爽的女子正在进行蹴鞠运动。</p>
@@ -20,22 +25,35 @@
       <p>1982年，中国开始举办女足业余队比赛，一年后开始进行国际交流。</p>
       <p>1984年，中国女足国家队正式成立。一代铿锵玫瑰，正式拉开了时代的帷幕。</p>
       <p>仅两年之后的1986年，中国女足就以全部比赛零封对手的战绩拿到了第一个女足亚洲杯冠军。</p>
-      <p>2022年，“铿锵玫瑰”们再一次登上亚洲之巅。这已经是女足建队近40年以来第9次在女足亚洲杯赛场上荣膺桂冠。</p>
+
     </section>
-    <div>图21</div>
-    <!-- <div class="flourish-embed flourish-chart" data-src="visualisation/10708753">
-      <script src="https://public.flourish.studio/resources/embed.js"></script>
-    </div> -->
+    <div class="highlight">
+      <p>2022年，“铿锵玫瑰”们再一次登上亚洲之巅</p>
+      <p>这已经是女足建队近40年以来第9次在女足亚洲杯赛场上荣膺桂冠</p>
+    </div>
+    <iframe src='https://flo.uri.sh/visualisation/10708753/embed' title='Interactive or visual content'
+      class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'
+      sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+    <div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit'
+        href='https://public.flourish.studio/visualisation/10708753/?utm_source=embed&utm_campaign=visualisation/10708753'
+        target='_top' style='text-decoration:none!important'><img alt='Made with Flourish'
+          src='https://public.flourish.studio/resources/made_with_flourish.svg'
+          style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
     <section class="section">
       <p>回首40年峥嵘岁月，中国女足曾荣登亚洲之巅，也曾距离奥运会冠军仅一步之遥。</p>
       <p>建队之初，中国女足势如破竹，连续拿下数个亚洲杯和亚运会的冠军，这支铁血之师也被国人冠以了“铿锵玫瑰”的称号。</p>
       <p>2006年，中国女足世界排名上升到了第4名，这是史上最好成绩。</p>
       <p>2008年取得亚洲杯冠军之后，中国女足进入了长达10多年的低谷期。不仅无缘冠军，甚至频频在半决赛、四分之一决赛折戟。2019年世界杯仅仅拿到了第16名的成绩。</p>
-      <p>从巅峰落到低谷，再重整士气厚积薄发，2022年的亚洲杯冠军，中国女足等了14年。</p>
+
     </section>
-    <div>图22</div>
-    <iframe src="https://dycharts.com/xshow/index.html?id=c_804811485c5ab015d5f69ee7c969c93a" width="700" height="520"
-      scrolling="no" frameborder="0" align=""></iframe>
+    <div class="highlight">
+      <p>从巅峰落到低谷，再重整士气厚积薄发</p>
+      <p>2022年的亚洲杯冠军，中国女足等了14年</p>
+    </div>
+    <div class="dy-chart">
+      <iframe src="https://dycharts.com/xshow/index.html?id=c_804811485c5ab015d5f69ee7c969c93a" width="700" height="520"
+        scrolling="no" frameborder="0" align=""></iframe>
+    </div>
     <section class="section">
       <p>
         中国女足国家队历届球员的来源地以辽宁、上海、北京、江苏、广州、山东、河北、吉林、湖南、四川等省份为主，主要集中在东部地区。其中，辽宁以历史球员共计28人的数量“一骑绝尘”，成为中国女足最大的人才输送来源地。2022年亚洲杯中，辽宁培养的高晨、朱钰及王妍雯等优秀的女足运动员表现出色，本届亚洲杯MVP王珊珊此前也在大连女足效力多个赛季。
@@ -63,10 +81,13 @@
 </template>
 
 <script>
+  const Sticky = require('sticky-js')// eslint-disable-next-line
+  const sticker = new Sticky('.selector')
   export default {
     data() {
       return {
-        img20: require("@/assets/images/20.png")
+        img20: require("@/assets/images/20.png"),
+        football: require("@/assets/images/football.svg")
       }
     }
   }
