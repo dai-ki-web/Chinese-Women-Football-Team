@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <navBar class="navBar"></navBar>
-    <div class="article" data-sticky-container>
+    <div class="article" style="position: relative;">
       <indexPage></indexPage>
       <introPage></introPage>
       <historyPage></historyPage>
@@ -11,7 +11,6 @@
 
   </div>
 </template>
-<script src="sticky.min.js"></script>
 <script>
   import navBar from "@/views/navBar/index"
   import indexPage from '@/views/Index/index'

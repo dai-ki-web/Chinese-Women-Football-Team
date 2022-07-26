@@ -2,7 +2,10 @@
   <div class="intro" id="intro">
     <div class="liner">
       <div style="height: 300px;"></div>
-      <h2 class="title"><span>新闻引入</span>——十四载等待，问鼎亚洲之巅</h2>
+      <div class="title">
+        <el-image :src="football"></el-image>
+        <h2><span>新闻引入</span>——十四载等待，问鼎亚洲之巅</h2>
+      </div>
       <div class="image">
         <el-image :src="img6" fit="contain" lazy></el-image>
       </div>
@@ -36,6 +39,7 @@
   export default {
     data() {
       return {
+        football: require("@/assets/images/football.svg"),
         img6: require('@/assets/images/6.jpeg'),
         img7: require('@/assets/images/7.jpeg'),
         img10: require('@/assets/images/10.jpeg')

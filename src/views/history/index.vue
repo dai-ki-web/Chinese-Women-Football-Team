@@ -7,30 +7,41 @@
       </h2>
     </div>
     <div>
-      <div>小导航窗</div>
+      <div class="hisNav">
+        <el-button type="text"><a href="#1">蹴鞠渊源</a> </el-button>
+        <el-button type="text"><a href="#2">历届赛事</a></el-button>
+        <el-button type="text"><a href="#3">队员分布</a></el-button>
+        <el-button type="text"><a href="#4">服役年限</a></el-button>
+        <el-button type="text"><a href="#5">历任主帅</a></el-button>
+      </div>
     </div>
-    <section class="section">
+
+    <section class="section his-image" id="1">
+      <div style="height: 50px;"></div>
       <p>在历史上，足球在中国以“蹴鞠”之名出现。中国古代女子不仅爱好琴棋书画，也同样喜欢蹴鞠、捶丸、马球。</p>
       <p>早在汉代，中国女子蹴鞠运动就有记载。河南南阳汉画像石系列中有三块“女子蹴鞠”画像石，画面中梳着高髻，长袖舒展，英姿飒爽的女子正在进行蹴鞠运动。</p>
       <p>宋代是女子蹴鞠运动鼎盛之时，从皇宫贵族到平民百姓无不热爱这项体育运动。据宋末元初时期马端临的《文献通考》记载：当时女子蹴鞠队中“女弟子队153人，衣四色，绣罗宽衫，系锦带，踢绣球，球不离足，足不离球，华庭观赏，万人瞻仰。”
       </p>
       <p>南京博物院收藏着一堂十二扇明代巨型木胎屏风——《黑漆彩螺钿仕女游艺图屏风》，上面的园林仕女图中描绘着一群贵家妇女正在园内进行蹴鞠等游乐活动，是当时上层妇女悠游行乐的真实图景。</p>
     </section>
-    <div class="image">
-      <el-image :src="img20" fit="contain" lazy></el-image>
+    <div class="img-tip" style="color: #c6ae5a;">
+      <p>《仕女蹴鞠图》来源|上海博物馆官网</p>
+      <el-divider></el-divider>
     </div>
-    <section class="section">
+
+    <!-- <div class="image">
+      <el-image :src="img20" fit="contain" lazy></el-image>
+    </div> -->
+
+    <section class="section" id="2">
+      <div style="height: 50px;"></div>
       <p>上世纪20年代，穿过历史风云，千年后的上海出现了中国第一支现代女子足球队。</p>
       <p>1978年改革开放后，女足星星之火首先在云南、陕西、辽宁等地燃起；1981年，在云南楚雄举办了第一次全国女子足球比赛。</p>
       <p>1982年，中国开始举办女足业余队比赛，一年后开始进行国际交流。</p>
       <p>1984年，中国女足国家队正式成立。一代铿锵玫瑰，正式拉开了时代的帷幕。</p>
       <p>仅两年之后的1986年，中国女足就以全部比赛零封对手的战绩拿到了第一个女足亚洲杯冠军。</p>
-
+      <p>2022年，“铿锵玫瑰”们再一次登上亚洲之巅。这已经是女足建队近40年以来第9次在女足亚洲杯赛场上荣膺桂冠。</p>
     </section>
-    <div class="highlight">
-      <p>2022年，“铿锵玫瑰”们再一次登上亚洲之巅</p>
-      <p>这已经是女足建队近40年以来第9次在女足亚洲杯赛场上荣膺桂冠</p>
-    </div>
     <iframe src='https://flo.uri.sh/visualisation/10708753/embed' title='Interactive or visual content'
       class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'
       sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
@@ -44,15 +55,11 @@
       <p>建队之初，中国女足势如破竹，连续拿下数个亚洲杯和亚运会的冠军，这支铁血之师也被国人冠以了“铿锵玫瑰”的称号。</p>
       <p>2006年，中国女足世界排名上升到了第4名，这是史上最好成绩。</p>
       <p>2008年取得亚洲杯冠军之后，中国女足进入了长达10多年的低谷期。不仅无缘冠军，甚至频频在半决赛、四分之一决赛折戟。2019年世界杯仅仅拿到了第16名的成绩。</p>
-
+      <p>从巅峰落到低谷，再重整士气厚积薄发，2022年的亚洲杯冠军，中国女足等了14年。</p>
     </section>
-    <div class="highlight">
-      <p>从巅峰落到低谷，再重整士气厚积薄发</p>
-      <p>2022年的亚洲杯冠军，中国女足等了14年</p>
-    </div>
     <div class="dy-chart">
-      <iframe src="https://dycharts.com/xshow/index.html?id=c_804811485c5ab015d5f69ee7c969c93a" width="700" height="520"
-        scrolling="no" frameborder="0" align=""></iframe>
+      <iframe src="https://dycharts.com/xshow/index.html?id=c_804811485c5ab015d5f69ee7c969c93a" width="100%"
+        height="1200" scrolling="no" frameborder="0" align=""></iframe>
     </div>
     <section class="section">
       <p>
@@ -62,11 +69,20 @@
         辽宁足球曾经成绩出色，为国家队输送了大量的球员，是因为这里有全国最好的青训。如今，尽管辽宁青训已经不能算得上是国内一流的水平，但辽宁足球的底蕴为中国女足留下了扎实的根基。当前，辽宁打出“足球振兴，女足先行”的口号，以打造省属女足职业队为龙头，完善构建各级女足梯队，全新组建了2007/08和20/10两个年龄段的精英队伍，精耕女足培养，打造女足名片。
       </p>
     </section>
-    <div>图</div>
+    <iframe src="https://dycharts.com/xshow/index.html?id=c_cc30adb051ed1c6dd2eb4f809be24140" width="100%" height="700"
+      scrolling="no" frameborder="0" align=""></iframe>
+
     <section class="section">
       <p>在1986年至今各大国际赛事公布的大名单中，共计155名运动员。除去26位现役运动员外，中国女足国家队运动员在国家队的平均服役年限为6.395年。</p>
     </section>
-    <div>图</div>
+    <iframe src='https://flo.uri.sh/visualisation/10711261/embed' title='Interactive or visual content'
+      class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:900px;'
+      sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+    <div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit'
+        href='https://public.flourish.studio/visualisation/10711261/?utm_source=embed&utm_campaign=visualisation/10711261'
+        target='_top' style='text-decoration:none!important'><img alt='Made with Flourish'
+          src='https://public.flourish.studio/resources/made_with_flourish.svg'
+          style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
     <section class="section">
       <p>1984年初建中国女足时的主教练丛者余，是中国女足的“奠基人“。在他的带领下，年轻的中国女足国家队涌现出钟红莲、水庆霞、牛丽杰等一大批有特点的出色球员。
         1986年，丛者余带领中国女足夺得第六届亚洲杯冠军，那不仅是中国女足第一次在洲际比赛中获得冠军，也是中国足球获得的第一座洲际冠军奖杯，是一个标志性的起点。他是中国女足不折不扣的“缔造者”。</p>
@@ -81,8 +97,6 @@
 </template>
 
 <script>
-  const Sticky = require('sticky-js')// eslint-disable-next-line
-  const sticker = new Sticky('.selector')
   export default {
     data() {
       return {

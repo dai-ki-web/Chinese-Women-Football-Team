@@ -1,10 +1,10 @@
 <template>
   <div class="problem" id="problem">
+    <div class="title">
+      <el-image :src="football"></el-image>
+      <h2><span>女足困境</span>——现状与未来，振兴之路何方</h2>
+    </div>
     <div class="liner-title">
-      <div class="title" style="color: #fff;">
-        <el-image :src="football"></el-image>
-        <h2><span>女足困境</span>——现状与未来，振兴之路何方</h2>
-      </div>
       <div>
         <div>
           <p>中国女足夺冠的消息传来后</p>
@@ -27,11 +27,16 @@
         </div>
         <p>......</p>
       </div>
-      <div>导航</div>
-
     </div>
+    <div class="proNav">
+      <el-button type="text"><a href="#a">(a)选才困境</a> </el-button>
+      <el-button type="text"><a href="#b">(b)成长困境</a></el-button>
+      <el-button type="text"><a href="#c">(c)关注困境</a></el-button>
+    </div>
+
     <!-- a -->
-    <div>
+    <div id="a">
+      <div style="height: 50px;"></div>
       <div class="sub-title">
         <h3>选才困境：国家队征召球员局限，俱乐部输送人才无力</h3>
       </div>
@@ -45,7 +50,8 @@
       <el-divider></el-divider>
     </div>
     <!-- b -->
-    <div>
+    <div id="b">
+      <div style="height: 50px;"></div>
       <div class="sub-title">
         <h3>成长困境：俱乐部状态不稳定，联赛球员流动频繁</h3>
       </div>
@@ -60,7 +66,8 @@
       <el-divider></el-divider>
     </div>
     <!-- c -->
-    <div>
+    <div id="c">
+      <div style="height: 50px;"></div>
       <div class="sub-title">
         <h3>关注困境：球迷观赛动机较弱，忠诚度和持续性差</h3>
       </div>
@@ -93,13 +100,15 @@
     </div>
   </div>
 </template>
-
 <script>
   export default {
     data() {
       return {
         football: require("@/assets/images/football.svg")
       }
+    },
+    created() {
+
     }
   }
 </script>

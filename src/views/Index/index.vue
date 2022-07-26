@@ -1,7 +1,7 @@
 <template>
   <div id="index" class="index">
     <div class="headImg">
-      <el-image :src="img" fit="contain" lazy></el-image>
+      <el-image :src="img" fit="contain"></el-image>
     </div>
     <div class="content">
       <div class="deep">
