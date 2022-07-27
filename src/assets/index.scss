@@ -56,11 +56,32 @@ body {
   overflow: auto;
 }
 
+.headImg {
+  margin-top: 50px;
+  box-sizing: border-box;
+  width: 50%;
+  height: 100%;
+  padding: 20px 20px 160px 20px;
+  z-index: 2;
+  position: absolute;
+  top: 0;
+  float: left;
+  overflow: auto;
+
+  &::-webkit-scrollbar {
+    display: none
+  }
+
+  // .el-image {
+  //   max-height: 400px;
+  // }
+}
+
 .index {
   padding-top: 50px;
   width: 100%;
-  position: relative;
   background-color: #3a672c;
+  height: 560px;
   // background: linear-gradient(#3a672c 25%, #9ba447 0%, #9ba447 50%, #3a672c 0%, #3a672c 75%, #9ba447 0%, #9ba447 100%, );
 
 
@@ -74,29 +95,26 @@ body {
     letter-spacing: 5px;
   }
 
-  .headImg {
-    box-sizing: border-box;
-    width: 50%;
-    height: 400px;
-    padding: 20px;
-    float: left;
 
-    // .el-image {
-    //   max-height: 400px;
-    // }
-  }
 
   .content {
-    margin: 30px 0 0 0;
+    z-index: 0;
+    margin: 30px 0px 0 0;
+    position: absolute;
+    top: 30px;
+    right: 0;
+    width: 100%;
 
     p {
+      text-align: center;
       margin: 0;
-      padding: 10px;
+      padding: 10px 50px;
       font-size: 18px;
     }
 
     &>div:nth-child(-n+3) p {
-      padding: 20px;
+      text-align: right;
+      padding: 20px 180px;
     }
   }
 
@@ -155,7 +173,6 @@ body {
   h2 {
     margin: 0;
     font-size: 24px;
-    padding-left: 20px;
     line-height: 66px;
   }
 
@@ -189,6 +206,7 @@ body {
 }
 
 .problem {
+  padding: 40px 0;
   position: relative;
 
   .liner-title {
@@ -255,9 +273,11 @@ body {
 
 .highlight {
   text-align: center;
-  color: #902b25;
+  color: #fff;
   font-weight: 700;
   font-size: 24px;
+  font-style: italic;
+  text-shadow: 5px 5px 5px #000;
 }
 
 .sub-title {
@@ -316,6 +336,8 @@ body {
 
 
 .history {
+  padding: 40px 0;
+
   .el-divider {
     background-color: #c6ae5a;
   }
@@ -331,6 +353,7 @@ body {
     text-align: left;
     background-color: #c1c1c0;
     padding: 0 10px;
+
 
     .el-button--text a {
       position: relative;
@@ -371,4 +394,29 @@ body {
 
 .img-tip {
   text-align: right;
+}
+
+.memory {
+  padding: 40px 0;
+  position: relative;
+  background: linear-gradient(#fff 1%, #9ba447 20%, #3a672c);
+
+  .el-divider {
+    position: relative;
+
+    left: 50%;
+    width: 80%;
+    color: #3d3d3d;
+    transform: translateX(-50%);
+
+  }
+
+  .section p {
+    color: #fff;
+    margin: 0 20px;
+  }
+}
+
+.section {
+  margin-bottom: 20px;
 }

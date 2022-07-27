@@ -1,10 +1,12 @@
 <template>
   <div class="problem" id="problem">
+
     <div class="title">
       <el-image :src="football"></el-image>
       <h2><span>女足困境</span>——现状与未来，振兴之路何方</h2>
     </div>
     <div class="liner-title">
+      <div style="height: 30px;"></div>
       <div>
         <div>
           <p>中国女足夺冠的消息传来后</p>

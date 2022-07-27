@@ -24,6 +24,9 @@
       <p>这场女足亚洲杯决赛的收视率数据同样亮眼：中韩大战的收视率创历史新高地达到了2.44%。肖裕仪完成绝杀的巅峰时刻，共3745万人同时观看，收视率高达2.2%，排名全国第一。中国女足在本次大赛中得到了前所未有的关注。</p>
     </section>
     <!-- 电视 -->
+    <div class="image">
+      <el-image :src="img8" fit="contain" lazy></el-image>
+    </div>
     <section class="section">
       <p>1986年，中国女足首次参加女足亚洲杯就在决赛中2:0击败日本队，一举拿下冠军。自此便开创了中国女足在该项赛事上的辉煌历史：从1986年到1999年共七届亚洲杯，中国女足连夺七次冠军。
       </p>
@@ -42,6 +45,7 @@
         football: require("@/assets/images/football.svg"),
         img6: require('@/assets/images/6.jpeg'),
         img7: require('@/assets/images/7.jpeg'),
+        img8: require('@/assets/images/8.jpg'),
         img10: require('@/assets/images/10.jpeg')
       }
     }
