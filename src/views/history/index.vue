@@ -2,7 +2,7 @@
   <div class="history" id="history">
     <div class="title">
       <el-image :src="football"></el-image>
-      <img src="../../assets/images/title2.png" />
+      <img src="../../assets/images/title2.png" class="titleimg" />
     </div>
     <div>
       <div class="hisNav">

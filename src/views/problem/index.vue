@@ -3,7 +3,7 @@
 
     <div class="title">
       <el-image :src="football"></el-image>
-      <img src="../../assets/images/title4.png" />
+      <img src="../../assets/images/title4.png" class="titleimg" />
     </div>
     <div class="liner-title">
       <div style="height: 30px;"></div>

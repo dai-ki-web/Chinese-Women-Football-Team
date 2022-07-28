@@ -4,7 +4,7 @@
       <div style="height: 300px;"></div>
       <div class="title">
         <el-image :src="football"></el-image>
-        <img src="../../assets/images/title1.png" />
+        <img src="../../assets/images/title1.png" class="titleimg" />
       </div>
       <div class="image">
         <el-image :src="img6" fit="contain" lazy></el-image>

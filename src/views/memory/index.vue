@@ -3,7 +3,7 @@
     <div style="height:250px;"></div>
     <div class="title">
       <el-image :src="football"></el-image>
-      <img src="../../assets/images/title3.png" />
+      <img src="../../assets/images/title3.png" class="titleimg" />
     </div>
     <section class="highlight">
       <p>“身上的痛让我难以入睡
