@@ -83,7 +83,10 @@
         几十年间，和水指导并肩作战的人从与她同龄的队友变成了晚她一辈的队员们，但尽管相隔多年，铿锵玫瑰的基因一直流淌在女足姑娘的血液里。女足、女排、跳水、乒乓球、短道速滑，尽管项目不同，传承却是一样的。无畏风雨，薪火相传，这是中国体育事业的底色。
       </p>
     </section>
-    31
+    34
+    <div class="black" @click="handleLight">
+      <el-image :src="img34" fit="contain" :style="{opacity: lighted}"></el-image>
+    </div>
     <section class="section highlight" style="text-shadow: none;">
       <p> 不论是1996年逆战巴西，挺进奥运决赛，还是2022迎难而上，登顶亚洲之巅，以及未来的每一天，女足姑娘们一直如歌中所唱：</p>
       <p>“再多忧伤再多痛苦自己去背</p>
@@ -98,8 +101,16 @@
   export default {
     data() {
       return {
+        lighted: 0,
         football: require("@/assets/images/football.svg"),
-        img25: require("@/assets/images/25.jpeg")
+        img25: require("@/assets/images/25.jpeg"),
+        img34: require("@/assets/images/light.png")
+
+      }
+    },
+    methods: {
+      handleLight() {
+        this.lighted = 1
       }
     }
   }

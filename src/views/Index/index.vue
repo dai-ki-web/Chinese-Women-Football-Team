@@ -31,7 +31,7 @@
     </div>
     <div class="headImg">
       <el-image :src="img" fit="contain"></el-image>
-      <el-image :src="img" fit="contain"></el-image>
+      <el-image :src="gif5" fit="contain" />
       <el-image :src="img" fit="contain"></el-image>
       <el-image :src="img" fit="contain"></el-image>
       <el-image :src="img" fit="contain"></el-image>
@@ -49,8 +49,8 @@
     name: "indexPage",
     data() {
       return {
-        img: require("@/assets/images/part1.webp")
-        // gif5: require("@/assets/images/5.GIF"),
+        img: require("@/assets/images/part1.webp"),
+        gif5: require("@/assets/images/test.gif")
         // gif4: require("@/assets/images/4.GIF"),
         // gif3: require("@/assets/images/3.GIF"),
         // gif2: require("@/assets/images/2.GIF"),

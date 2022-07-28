@@ -8,5 +8,12 @@ module.exports = {
     // 调试端口
     port: 8989
   },
-
+  chainWebpack: config => {
+    config.module
+      .rule('url-loader')
+      .test(/\.(GIF)(\?.*)?$/)
+      .use('url-loader')
+      .loader('url-loader')
+      .end()
+  },
 }
