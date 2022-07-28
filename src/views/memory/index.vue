@@ -3,7 +3,7 @@
     <div style="height:250px;"></div>
     <div class="title">
       <el-image :src="football"></el-image>
-      <h2><span>玫瑰记忆</span>——1996，逆战巴西</h2>
+      <img src="../../assets/images/title3.png" />
     </div>
     <section class="highlight">
       <p>“身上的痛让我难以入睡

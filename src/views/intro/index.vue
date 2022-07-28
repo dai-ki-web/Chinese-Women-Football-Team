@@ -4,7 +4,7 @@
       <div style="height: 300px;"></div>
       <div class="title">
         <el-image :src="football"></el-image>
-        <h2><span>新闻引入</span>——十四载等待，问鼎亚洲之巅</h2>
+        <img src="../../assets/images/title1.png" />
       </div>
       <div class="image">
         <el-image :src="img6" fit="contain" lazy></el-image>

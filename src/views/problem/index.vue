@@ -3,7 +3,7 @@
 
     <div class="title">
       <el-image :src="football"></el-image>
-      <h2><span>女足困境</span>——现状与未来，振兴之路何方</h2>
+      <img src="../../assets/images/title4.png" />
     </div>
     <div class="liner-title">
       <div style="height: 30px;"></div>

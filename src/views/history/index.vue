@@ -2,9 +2,7 @@
   <div class="history" id="history">
     <div class="title">
       <el-image :src="football"></el-image>
-      <h2>
-        <span>回溯历史</span>——四十年风雨，如何遇见彩虹
-      </h2>
+      <img src="../../assets/images/title2.png" />
     </div>
     <div>
       <div class="hisNav">
