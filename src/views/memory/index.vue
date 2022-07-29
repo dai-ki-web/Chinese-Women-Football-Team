@@ -83,7 +83,7 @@
         几十年间，和水指导并肩作战的人从与她同龄的队友变成了晚她一辈的队员们，但尽管相隔多年，铿锵玫瑰的基因一直流淌在女足姑娘的血液里。女足、女排、跳水、乒乓球、短道速滑，尽管项目不同，传承却是一样的。无畏风雨，薪火相传，这是中国体育事业的底色。
       </p>
     </section>
-    <div class="black" @click="handleLight" :style="{background: url("@/assets/images/black.jpg")}">
+    <div class="black" @click="handleLight" :style="{background: url('@/assets/images/black.jpg')}">
       <el-image :src="img34" fit="contain" :style="{opacity: lighted}"></el-image>
     </div>
     <section class="section highlight" style="text-shadow: none;">
