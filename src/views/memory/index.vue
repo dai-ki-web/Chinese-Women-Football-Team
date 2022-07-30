@@ -1,6 +1,5 @@
 <template>
   <div class="memory" id="memory">
-    <div style="height:250px;"></div>
     <div class="title">
       <el-image :src="football"></el-image>
       <img src="../../assets/images/title3.png" class="titleimg" />
