@@ -5,7 +5,7 @@
       <indexPage></indexPage>
       <introPage></introPage>
       <historyPage></historyPage>
-      <memoryPage></memoryPage>
+      <memoryPage>?</memoryPage>
       <problemPage></problemPage>
     </div>
 

@@ -16,7 +16,7 @@
       <p>1996年亚特兰大奥运会，正值现代奥运会诞生100周年，女子足球首次正式成为奥运项目。</p>
       <p>包括中国在内，仅有8支球队入选参加此次女足比赛。中国女足在这里取得了历史最好的奥运会成绩。</p>
     </section>
-    <!-- 25 -->
+    <el-image>25</el-image>
     <div style="margin:0 auto ;width:80%">
       <iframe src='https://flo.uri.sh/visualisation/10751724/embed' title='Interactive or visual content'
         class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:1200px;'
@@ -31,7 +31,7 @@
     <section class="section">
       <p>小组赛中，中国女足被分到死亡之组，与美国、瑞典、丹麦共同竞争出线的名额。而姑娘们连克对手，先后战胜瑞典与丹麦，之后又与美国战平，最终进入半决赛，与南美劲旅巴西对阵。</p>
     </section>
-    <!-- 26 -->
+    <el-image>26</el-image>
     <div style="margin:0 auto ;width:80%">
       <iframe src='https://flo.uri.sh/visualisation/10751383/embed' title='Interactive or visual content'
         class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:1500px;'
@@ -51,7 +51,7 @@
       <p>2000年悉尼奥运会女足比赛中巴西再次输给了美国队，获得了第四名。</p>
       <p>巴西女足欢乐、灵巧。她们的踢法崇尚进攻，融入了桑巴舞的风格，极具吸引力。</p>
     </section>
-    <!-- 27 -->
+    <el-image>27</el-image>
     <div style="margin:0 auto ;width:80%">
       <iframe src='https://flo.uri.sh/visualisation/10745676/embed' title='Interactive or visual content'
         class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'
@@ -83,7 +83,7 @@
         几十年间，和水指导并肩作战的人从与她同龄的队友变成了晚她一辈的队员们，但尽管相隔多年，铿锵玫瑰的基因一直流淌在女足姑娘的血液里。女足、女排、跳水、乒乓球、短道速滑，尽管项目不同，传承却是一样的。无畏风雨，薪火相传，这是中国体育事业的底色。
       </p>
     </section>
-    <div class="black" @click="handleLight" :style="{background: url('@/assets/images/black.jpg')}">
+    <div class="black img34" @click="handleLight">
       <el-image :src="img34" fit="contain" :style="{opacity: lighted}"></el-image>
     </div>
     <section class="section highlight" style="text-shadow: none;">
@@ -103,7 +103,8 @@
         lighted: 0,
         football: require("@/assets/images/football.svg"),
         img25: require("@/assets/images/25.jpeg"),
-        img34: require("@/assets/images/light.png")
+        img34: require("@/assets/images/light.png"),
+        img34B: require("@/assets/images/black.png")
 
       }
     },
