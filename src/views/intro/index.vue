@@ -1,8 +1,8 @@
 <template>
   <div class="intro" id="intro">
-    <div class="liner">
-      <div style="height: 300px;"></div>
-      <div class="title">
+    <div >
+      <div style="height: 140px; background-color: #3a672c;"></div>
+      <div class="title liner">
         <el-image :src="football"></el-image>
         <img src="../../assets/images/title1.png" class="titleimg" />
       </div>

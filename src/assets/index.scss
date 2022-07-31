@@ -24,7 +24,7 @@ body {
 
       a {
         outline: none;
-        text-decoration: none
+        text-decoration: none;
       }
 
       &::after {
@@ -91,7 +91,7 @@ body {
     color: #fff;
     font-style: italic;
     font-weight: 700;
-    text-shadow: 5px 5px 5px #000;
+    text-shadow: 3px 3px 3px #000;
     letter-spacing: 5px;
   }
 
@@ -211,7 +211,7 @@ body {
 
   .liner-title {
     // background-color: rgba($color: #000000, $alpha: 1.0);
-    background: linear-gradient(#3a672c, #fff);
+    background-color: white;
     border: none;
 
     &>div {
@@ -223,8 +223,7 @@ body {
         p {
           font-style: italic;
           font-size: 21px;
-          color: #fff;
-          text-shadow: 5px 5px 5px #000;
+          color: #902b25;
         }
 
       }
@@ -247,7 +246,7 @@ body {
           font-style: italic;
           font-size: 21px;
           color: #fff;
-          text-shadow: 5px 5px 5px #000;
+          text-shadow: 3px 3px 3px #000;
         }
 
       }
@@ -277,7 +276,7 @@ body {
   font-weight: 700;
   font-size: 24px;
   font-style: italic;
-  text-shadow: 5px 5px 5px #000;
+  text-shadow: 3px 3px 3px #000;
 }
 
 .sub-title {
@@ -289,7 +288,7 @@ body {
   font-size: 21px;
   font-style: italic;
   background-color: #9ba447;
-  text-shadow: 5px 5px 5px #000;
+  text-shadow: 3px 3px 3px #000;
   line-height: 80px;
 
   ::before {
@@ -387,7 +386,7 @@ body {
       font-size: 21px;
       font-style: italic;
       color: #fff;
-      text-shadow: 5px 5px 5px #000;
+      text-shadow: 3px 3px 3px #000;
     }
   }
 }
@@ -422,7 +421,12 @@ body {
 }
 
 .red {
-  color: #902b25;
+  color: #a93b2a;
+  font-weight: 700;
+}
+
+.white {
+  font-weight: 700;
 }
 
 .titleimg {
