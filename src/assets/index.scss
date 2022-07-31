@@ -8,15 +8,20 @@ body {
   height: 50px;
   position: fixed;
   top: 0;
-  width: 90%;
+  width: 70%;
   min-width: 768px;
 
   .el-menu {
     height: 100%;
+    display: flex;
+    justify-content: center;
     box-sizing: border-box;
     background-color: #902b25;
+    border: none;
 
     .el-menu-item {
+      flex: 1;
+      text-align: center;
       position: relative;
       height: 100%;
       line-height: 50px;
@@ -91,7 +96,7 @@ body {
     color: #fff;
     font-style: italic;
     font-weight: 700;
-    text-shadow: 3px 3px 3px #000;
+    text-shadow: 2px 2px 5px #909090;
     letter-spacing: 5px;
   }
 
@@ -108,21 +113,22 @@ body {
     p {
       text-align: center;
       margin: 0;
+      position: relative;
+      right: -30%;
       padding: 10px 50px;
       font-size: 18px;
     }
 
     &>div:nth-child(-n+3) p {
-      text-align: right;
-      padding: 20px 180px;
+      padding: 20px 10%;
     }
   }
 
   .big p {
     font-size: 21px;
     // padding: 24px 0;
-    padding: 0;
-    line-height: 140px;
+    // padding: 0;
+    // line-height: 140px;
   }
 
   .deep,
@@ -246,7 +252,7 @@ body {
           font-style: italic;
           font-size: 21px;
           color: #fff;
-          text-shadow: 3px 3px 3px #000;
+          text-shadow: 2px 2px 5px #909090;
         }
 
       }
@@ -276,7 +282,7 @@ body {
   font-weight: 700;
   font-size: 24px;
   font-style: italic;
-  text-shadow: 3px 3px 3px #000;
+  text-shadow: 2px 2px 5px #909090;
 }
 
 .sub-title {
@@ -288,7 +294,7 @@ body {
   font-size: 21px;
   font-style: italic;
   background-color: #9ba447;
-  text-shadow: 3px 3px 3px #000;
+  text-shadow: 2px 2px 5px #909090;
   line-height: 80px;
 
   ::before {
@@ -378,15 +384,17 @@ body {
   .his-image {
     background-image: url("@/assets/images/20.png");
     background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-size: auto 100%;
     background-position: center;
-    padding: 20px 30%;
+    padding: 20px 24%;
+    height: 700px;
+    overflow: scroll;
 
     p {
       font-size: 21px;
       font-style: italic;
       color: #fff;
-      text-shadow: 3px 3px 3px #000;
+      text-shadow: 2px 2px 5px #909090;
     }
   }
 }

@@ -19,19 +19,23 @@
         },
         {
           index: 'intro',
-          label: "新闻引入"
+          label: "绽放"
         },
         {
           index: 'history',
-          label: "回溯历史"
+          label: "生长"
         },
         {
           index: 'memory',
-          label: "玫瑰记忆"
+          label: "记忆"
         },
         {
           index: 'problem',
-          label: "女足困境"
+          label: "困境"
+        },
+        {
+          index: 'end',
+          label: "结语"
         }]
       }
     },

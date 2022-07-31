@@ -38,7 +38,7 @@
     -moz-osx-font-smoothing: grayscale;
     text-align: left;
     margin: 0 auto;
-    width: 90%;
+    width: 70%;
     height: 100vh;
     min-width: 768px;
     font-family: SimHei;
