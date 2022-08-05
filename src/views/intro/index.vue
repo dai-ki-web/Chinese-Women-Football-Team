@@ -34,6 +34,17 @@
     <div class="image">
       <el-image :src="img10" fit="contain" lazy></el-image>
     </div>
+    <marquee behavior="scroll" direction="left" align="center" scrollamount="50">
+      <img src="../../assets/images/11.jpeg" >
+      <img src="../../assets/images/12.jpeg" >
+      <img src="../../assets/images/13.jpeg" >
+      <img src="../../assets/images/14.jpeg" >
+      <img src="../../assets/images/15.jpeg" >
+      <img src="../../assets/images/16.jpeg" >
+      <img src="../../assets/images/17.jpeg" >
+      <img src="../../assets/images/18.jpeg" >
+      <img src="../../assets/images/19.jpeg" >
+    </marquee>
   </div>
 </template>
 

@@ -73,7 +73,7 @@
         <h3>关注困境：球迷观赛动机较弱，忠诚度和持续性差</h3>
       </div>
       <section class="section">
-        <p>近5年，中国女足关注度整体小于中国男足，<span class="red">女足赛事热度骤升骤降</span>的情况较为普遍。女足球迷的<span class="red">性别分布差异大</span>（在全网用户的性别分布为女性50.32%，男性49.68%的基础上，关注中国女足用户性别分布为女性30.96%，男性69.04%）且<span class="red">地域分布不均衡</span>（主要来自北京、上海等一线城市，其他省市球迷较少）。</p>
+        <p>近5年，中国女足关注度整体小于中国男足，<span class="red">女足赛事热度骤升骤降</span>的情况较为普遍。女足球迷的<span class="red">性别分布差异大</span>（在全网用户的性别分布为女性50.32%，男性49.68%的基础上，关注中国女足用户性别分布为女性30.96%，男性69.04%） 且<span class="red">地域分布不均衡</span>（主要来自北京、上海等一线城市，其他省市球迷较少）。</p>
       </section>
       <iframe src='https://flo.uri.sh/visualisation/10749513/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/10749513/?utm_source=embed&utm_campaign=visualisation/10749513' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
       <section class="section">
