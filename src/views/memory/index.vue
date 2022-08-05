@@ -15,7 +15,6 @@
       <p>包括中国在内，仅有8支球队入选参加此次女足比赛。中国女足在这里取得了历史最好的奥运会成绩——奥运会亚军。</p>
       <p>纵观中国女足奥运会战绩，1996年的亚特兰大奥运会，首战即巅峰。此后5次征战奥运，中国女足两次止步八强，三次小组未出线，留下了一段又一段令人遗憾的奥运历程。</p>
     </section>
-    <el-image>25</el-image>
     <div style="margin:0 auto ;width:80%">
       <iframe src='https://flo.uri.sh/visualisation/10751724/embed' title='Interactive or visual content'
         class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:1200px;'
@@ -30,7 +29,6 @@
     <section class="section">
       <p>在亚特兰大奥运会女足小组赛中，中国女足被分到死亡之组，与美国、瑞典、丹麦共同竞争出线的名额。而姑娘们连克对手，先后战胜瑞典与丹麦，之后又与美国战平，最终进入半决赛，与南美劲旅巴西对阵。</p>
     </section>
-    <el-image>26</el-image>
     <div style="margin:0 auto ;width:80%">
       <iframe src='https://flo.uri.sh/visualisation/10751383/embed' title='Interactive or visual content'
         class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:1500px;'
@@ -41,7 +39,6 @@
             src='https://public.flourish.studio/resources/made_with_flourish.svg'
             style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
     </div>
-    <el-divider></el-divider>
     <section class="section">
       <p>巴西女足一直以来都是南美地区的强队，在女足世界杯的预选赛中，她们以16胜0平的战绩和133个净胜球羞辱了她们的对手。然而在世界舞台上，巴西女足直到1999年美国世界杯才让世人记住了她们。</p>
       <p>在1991年中国女足世界杯和1995年瑞典女足世界杯中，巴西队都没有小组出线。</p>
@@ -50,7 +47,6 @@
       <p>2000年悉尼奥运会女足比赛中巴西再次输给了美国队，获得了第四名。</p>
       <p>巴西女足欢乐、灵巧。她们的踢法崇尚进攻，融入了桑巴舞的风格，极具吸引力。</p>
     </section>
-    <el-image>27</el-image>
     <div style="margin:0 auto ;width:80%">
       <iframe src='https://flo.uri.sh/visualisation/10745676/embed' title='Interactive or visual content'
         class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'
@@ -71,7 +67,6 @@
       <p>比赛最后阶段，韦海英接到孙庆梅的传球后左脚扣过巴西后卫，面对门将起脚劲射，皮球应声入网，3-2！</p>
       <p>中国女足在最后时刻完成精彩逆转，拿下了一场来之不易的逆转胜利。</p>
     </section>
-    <el-image>28-30</el-image>
     <marquee behavior="scroll" direction="left" align="center" scrollamount="40">
       <img src="../../assets/images/28.jpeg" >
       <img src="../../assets/images/29.jpeg" >
