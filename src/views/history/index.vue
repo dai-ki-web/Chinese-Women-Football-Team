@@ -1,7 +1,6 @@
 <template>
   <div class="history" id="history">
     <div class="title">
-      <el-image :src="football"></el-image>
       <img src="../../assets/images/title2.png" class="titleimg" />
     </div>
     <div>
@@ -79,6 +78,7 @@
     <section class="section" id="5">
       <p>在1986年至今各大国际赛事公布的大名单中，<span class="red">共计155名运动员</span>。除去26位现役运动员外，中国女足国家队运动员在国家队的<span
           class="red">平均服役年限为6.395年</span>。</p>
+      <p>其中，服役3年及以下的有38人，服役3-10年的有68人，服役10年以上的有23人。</p>
     </section>
     <iframe src='https://flo.uri.sh/visualisation/10711261/embed' title='Interactive or visual content'
       class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:900px;'
