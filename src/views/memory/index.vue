@@ -70,12 +70,12 @@
       <p>中国女足在最后时刻完成精彩逆转，拿下了一场来之不易的逆转胜利。</p>
     </section>
     <marquee behavior="scroll" direction="left" align="center" scrollamount="40">
-      <img src="../../assets/images/28.jpeg" >
-      <img src="../../assets/images/29.jpeg" >
-      <img src="../../assets/images/30.jpeg" >
-      <img src="../../assets/images/31.jpeg" >
-      <img src="../../assets/images/32.jpeg" >
-      <img src="../../assets/images/33.jpeg" >
+      <img src="../../assets/images/28.jpeg" class="img_marquee">
+      <img src="../../assets/images/29.jpeg" class="img_marquee">
+      <img src="../../assets/images/30.jpeg" class="img_marquee">
+      <img src="../../assets/images/31.jpeg" class="img_marquee">
+      <img src="../../assets/images/32.jpeg" class="img_marquee">
+      <img src="../../assets/images/33.jpeg" class="img_marquee">
     </marquee>
     <section class="section">
       <p>在这场比赛中，水庆霞教练作为主力中场出场。</p>
