@@ -85,9 +85,9 @@ body {
 .index {
   padding-top: 50px;
   width: 100%;
-  background-color: #3a672c;
+  background-color: #396836;
   height: 560px;
-  // background: linear-gradient(#3a672c 25%, #9ba447 0%, #9ba447 50%, #3a672c 0%, #3a672c 75%, #9ba447 0%, #9ba447 100%, );
+  // background: linear-gradient(#396836 25%, #507b40 0%, #507b40 50%, #396836 0%, #396836 75%, #507b40 0%, #507b40 100%, );
 
 
   p {
@@ -136,11 +136,11 @@ body {
   }
 
   .deep {
-    background-color: #3a672c;
+    background-color: #396836;
   }
 
   .light {
-    background-color: #9ba447;
+    background-color: #507b40;
   }
 }
 
@@ -152,7 +152,7 @@ body {
 
   .liner {
     // background-color: rgba($color: #000000, $alpha: 1.0);
-    background: linear-gradient(#3a672c 5%, #9ba447 15%, #fff 45%);
+    background: linear-gradient(#396836 5%, #507b40 15%, #fff 45%);
     border: none;
   }
 }
@@ -288,7 +288,7 @@ body {
   text-align: center;
   color: #fff;
   font-size: 21px;
-  background-color: #9ba447;
+  background-color: #507b40;
   text-shadow: 2px 2px 5px #909090;
   line-height: 80px;
 
@@ -309,13 +309,13 @@ body {
 
 .proNav {
   text-align: left;
-  border-top: #9ba447 2px solid;
-  border-bottom: #9ba447 2px solid;
+  border-top: #507b40 2px solid;
+  border-bottom: #507b40 2px solid;
   padding: 0 10px;
 
   .el-button--text a {
     font-size: 16px;
-    color: #9ba447;
+    color: #507b40;
     letter-spacing: 2px;
     outline: none;
     text-decoration: none;
@@ -325,7 +325,7 @@ body {
       position: absolute;
       height: 80%;
       width: 1px;
-      background-color: #9ba447;
+      background-color: #507b40;
       top: 50%;
       right: -5px;
       transform: translateY(-50%);
@@ -400,7 +400,7 @@ body {
 .memory {
   padding: 40px 0;
   position: relative;
-  background: linear-gradient(#fff 1%, #9ba447 20%, #3a672c);
+  background: linear-gradient(#fff 1%, #507b40 20%, #396836);
 
   .el-divider {
     position: relative;

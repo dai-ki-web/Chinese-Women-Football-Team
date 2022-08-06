@@ -1,10 +1,11 @@
 <template>
   <div class="intro" id="intro">
     <div >
-      <div style="height: 140px; background-color: #3a672c;"></div>
+      <div style="height: 140px; background-color: #396836;"></div>
       <div class="title liner">
         <img src="../../assets/images/title1.png" class="titleimg" />
       </div>
+      <div style="height: 140px; background-color: #507b40;"></div>
       <div class="image">
         <el-image :src="img6" fit="contain" lazy></el-image>
       </div>

@@ -76,9 +76,11 @@
       scrolling="no" frameborder="0" align=""></iframe>
 
     <section class="section" id="5">
-      <p>在1986年至今各大国际赛事公布的大名单中，<span class="red">共计155名运动员</span>。除去26位现役运动员外，中国女足国家队运动员在国家队的<span
-          class="red">平均服役年限为6.395年</span>。</p>
-      <p>其中，服役3年及以下的有38人，服役3-10年的有68人，服役10年以上的有23人。</p>
+      <p>1986年至今，各大国际赛事公布的大名单中，<span class="red">共计155名中国女足运动员</span>。除去26位现役运动员外，中国女足国家队运动员在国家队的<span
+          class="red">平均服役年限为6.395年</span>。其中，服役3年及以下的有38人，服役3-10年的有68人，服役10年以上的有23人。</p>
+      <p><span class="red">运动员的年龄状况</span>可以反映一支球队的竞技水平、人才储备和发展状况，是决定一个运动项目持续稳定发展的重要因素。</p>
+      <p>世界高水平女足国家队的平均年龄一般保持在<span class="red">23-25岁之间</span>，如2003年女足世界杯参赛队员的平均年龄为24.89岁，2007年女足世界杯参赛队员的平均年龄为24.91岁，2011年女足世界杯参赛队员的平均年龄为24.52岁。2011年女足世界杯冠军日本队的运动员平均年龄为25.24岁，说明日本队的运动员在相对高龄的状况下保持着良好的竞技状态，同时兼具大赛经验。</p>
+      <p>我国女足国家队运动员的平均年龄近年来保持在<span class="red">23岁左右</span>，相对较小的平均年龄说明我国女足国家队运动员中“老将”稀缺，整体<span class="red">大赛经验和能力欠缺</span>。为国家队运动员提供更好的联赛环境和保护机制，以<span class="red">延长优秀运动员的服役年限</span>，<span class="red">优化国家队年龄结构</span>，是提升中国女足大赛成绩的关键之一。</p>
     </section>
     <iframe src='https://flo.uri.sh/visualisation/10711261/embed' title='Interactive or visual content'
       class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:900px;'
