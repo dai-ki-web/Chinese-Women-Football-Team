@@ -13,6 +13,7 @@
       </section>
     </div>
       <section class="section">
+        <br>
         <p>1996年亚特兰大奥运会，正值现代奥运会诞生100周年，女子足球首次正式成为奥运项目。</p>
         <p>包括中国在内，仅有8支球队入选参加此次女足比赛。中国女足在这里取得了历史最好的奥运会成绩——奥运会亚军。</p>
         <p>纵观中国女足奥运会战绩，1996年的亚特兰大奥运会，首战即巅峰。此后5次征战奥运，中国女足两次止步八强，三次小组未出线，留下了一段又一段令人遗憾的奥运历程。</p>
@@ -92,6 +93,7 @@
       <div class="black img34" @click="handleLight">
         <el-image :src="img34" fit="contain" :style="{opacity: lighted}"></el-image>
       </div>
+      <div style="height: 40px"></div>
       <section class="section highlight" style="text-shadow: none;">
         <p> 不论是1996年逆战巴西，挺进奥运决赛，还是2022迎难而上，登顶亚洲之巅，以及未来的每一天，女足姑娘们一直如歌中所唱：</p>
         <p>“再多忧伤再多痛苦自己去背</p>
