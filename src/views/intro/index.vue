@@ -1,7 +1,7 @@
 <template>
   <div class="intro" id="intro">
     <div >
-      <div style="height: 140px; background-color: #396836;"></div>
+      <div style="height: 140px; background-color: #507b40;"></div>
       <div class="title liner">
         <img src="../../assets/images/title1.png" class="titleimg" />
       </div>
@@ -41,14 +41,14 @@
       <el-image :src="img10" fit="contain" lazy></el-image>
     </div>
     <marquee behavior="scroll" direction="left" align="center" scrollamount="50">
-      <img src="../../assets/images/11.jpeg" class="img_marquee">
+      <img src="../../assets/images/11.png" class="img_marquee">
       <img src="../../assets/images/12.jpeg" class="img_marquee">
       <img src="../../assets/images/13.jpeg" class="img_marquee">
       <img src="../../assets/images/14.jpeg" class="img_marquee">
       <img src="../../assets/images/15.jpeg" class="img_marquee">
       <img src="../../assets/images/16.jpeg" class="img_marquee">
       <img src="../../assets/images/17.jpeg" class="img_marquee">
-      <img src="../../assets/images/18.jpeg" class="img_marquee">
+      <img src="../../assets/images/18.png" class="img_marquee">
       <img src="../../assets/images/19.jpeg" class="img_marquee">
     </marquee>
   </div>

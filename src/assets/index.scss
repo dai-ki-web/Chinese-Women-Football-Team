@@ -309,13 +309,12 @@ body {
 
 .proNav {
   text-align: left;
-  border-top: #507b40 2px solid;
-  border-bottom: #507b40 2px solid;
+  background-color: #396836;
   padding: 0 10px;
 
   .el-button--text a {
     font-size: 16px;
-    color: #507b40;
+    color: white;
     letter-spacing: 2px;
     outline: none;
     text-decoration: none;
@@ -351,14 +350,14 @@ body {
 
   .hisNav {
     text-align: left;
-    background-color: #c1c1c0;
+    background-color: #396836;
     padding: 0 10px;
 
 
     .el-button--text a {
       position: relative;
       font-size: 16px;
-      color: #902b25;
+      color: white;
       letter-spacing: 2px;
       outline: none;
       text-decoration: none;
@@ -368,7 +367,7 @@ body {
         position: absolute;
         height: 80%;
         width: 1px;
-        background-color: #902b25;
+        background-color: white;
         top: 50%;
         right: -5px;
         transform: translateY(-50%);
@@ -400,7 +399,12 @@ body {
 .memory {
   padding: 40px 0;
   position: relative;
-  background: linear-gradient(#fff 1%, #507b40 20%, #396836);
+  
+  .background {
+    padding: 40px 0;
+    position: relative;
+    background: linear-gradient(#507b40 20%, #396836);
+  }
 
   .el-divider {
     position: relative;
@@ -413,7 +417,7 @@ body {
   }
 
   .section p {
-    color: #fff;
+    color: #3d3d3d;
     margin: 0 20px;
   }
 }

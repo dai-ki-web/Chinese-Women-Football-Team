@@ -16,25 +16,61 @@
           </p>
         </div>
         <div class="deep">
-          <p>女足姑娘们用足球书写誓言：</p>
+          <p>被冠以「铿锵玫瑰」称谓的20年，</p>
           <p>
-            铿锵玫瑰沐风雨，谁说巾帼不如男？
+            中国女足饱经风雨，尝尽沉浮
           </p>
         </div>
-        <div class="light big">
-          <p>浮沉过后，</p>
-          <p>汗水和泪水比花瓣更沉，</p>
-          <p>胜利的笑容似露珠般甜。</p>
+        <div class="light" style="line-height: 40px">
+          <p>从亚洲之巅、世界第二到跌落谷底，</p>
+          <p>
+            再到2022涅槃夺冠
+          </p>
+        </div>
+       <div class="deep">
+          <p> 隐藏在成绩背后的</p>
+          <p>
+            是人才选拔、联赛模式、青训机制</p>
+          <p>等一系列发展中面临的问题</p>
+       </div>
+        <div class="light">
+          <p>与男足相比，</p>
+          <p>
+            女足职业球员少、发展路径窄、
+          </p>
+          <p>受关注度低，困境更多，压力更大</p>
+        </div>
+        <div class="deep">
+          <p>四十年峥嵘岁月，</p>
+          <p>
+            如今再一次登顶亚洲的女足希望与挑战兼备，</p>
+          <p>危机与机遇并存</p>
+       </div>
+       <div class="light" style="line-height: 40px">
+          <p>风雨彩虹，铿锵玫瑰。</p>
+          <p>
+            忆往昔岁月，峥嵘巾帼盖须眉；
+          </p>
+        </div>
+        <div class="depp" style="line-height: 40px">
+          <p>望漫漫前路，光明灿烂犹可盼。</p>
+          <p>
+            2022，四十年中国女足再出发。
+          </p>
         </div>
       </div>
-
     </div>
     <div class="headImg">
-      <el-image :src="gif5" fit="contain"></el-image>
-      <el-image :src="gif4" fit="contain"></el-image>
-      <el-image :src="gif3" fit="contain"></el-image>
-      <el-image :src="gif2" fit="contain"></el-image>
-      <el-image :src="gif1" fit="contain"></el-image>
+      <el-image :src="gif5" fit="content"></el-image>
+      <el-image :src="gif4" fit="content"></el-image>
+      <el-image :src="gif3" fit="content"></el-image>
+      <el-image :src="gif2" fit="content"></el-image>
+      <el-image :src="gif1" fit="content"></el-image>
+    </div>
+    <div>
+      <div style=" height: 700px; background-color: #396836;">
+        <p></p>
+      </div>
     </div>
   </div>
 </template>
