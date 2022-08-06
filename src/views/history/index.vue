@@ -59,7 +59,7 @@
     </section>
     <div class="dy-chart">
       <iframe src="https://dycharts.com/xshow/index.html?id=c_804811485c5ab015d5f69ee7c969c93a" width="100%"
-        height="1200" scrolling="no" frameborder="0" align=""></iframe>
+       height=900 scrolling="no" frameborder="0" align=""></iframe>
     </div>
     <section class="section" id="4">
       <p>
