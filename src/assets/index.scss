@@ -234,28 +234,6 @@ body {
     }
   }
 
-  .liner-end {
-    background: linear-gradient(#fff, #a93b2a);
-    border: none;
-    margin-top: 100px;
-
-    &>div {
-      padding: 220px 0 120px 0;
-      text-align: center;
-
-      &>div {
-        margin-bottom: 20px;
-
-        p {
-          font-size: 21px;
-          color: #fff;
-          text-shadow: 2px 2px 5px #909090;
-        }
-
-      }
-    }
-  }
-
   .el-divider {
     background-color: #adadad;
   }
@@ -462,4 +440,30 @@ body {
 
 .img_marquee {
   height: 500px;
+}
+
+.end {
+  padding: 40px 0;
+  
+  .liner-end {
+    background: linear-gradient(#fff, #a93b2a);
+    border: none;
+    margin-top: 100px;
+
+    &>div {
+      padding: 220px 0 120px 0;
+      text-align: center;
+
+      &>div {
+        margin-bottom: 20px;
+
+        p {
+          font-size: 21px;
+          color: #fff;
+          text-shadow: 2px 2px 5px #909090;
+        }
+
+      }
+    }
+  }
 }
