@@ -80,7 +80,6 @@
     name: "indexPage",
     data() {
       return {
-        img: require("@/assets/images/part1.webp"),
         gif5: require("@/assets/images/5.gif"),
         gif4: require("@/assets/images/4.gif"),
         gif3: require("@/assets/images/3.gif"),
