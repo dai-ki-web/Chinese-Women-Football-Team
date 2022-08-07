@@ -62,11 +62,11 @@ body {
 }
 
 .headImg {
-  margin-top: 50px;
+
   box-sizing: border-box;
   width: 50%;
   height: 100%;
-  padding: 20px 20px 160px 20px;
+  padding: 70px 20px 160px 20px;
   z-index: 2;
   position: absolute;
   top: 0;
@@ -86,7 +86,7 @@ body {
   padding-top: 50px;
   width: 100%;
   background-color: #396836;
-  height: 560px;
+  height: 1260px;
   // background: linear-gradient(#396836 25%, #507b40 0%, #507b40 50%, #396836 0%, #396836 75%, #507b40 0%, #507b40 100%, );
 
 
@@ -233,8 +233,6 @@ body {
       }
     }
   }
-
-
 
   .el-divider {
     background-color: #adadad;
@@ -446,24 +444,22 @@ body {
   height: 500px;
 }
 
-.liner-end {
-  background: linear-gradient(#fff, #a93b2a);
-  border: none;
-  margin-top: 100px;
-
-  &>div {
+.end {
+  .liner-end {
+    background: linear-gradient(#fff, #a93b2a);
+    border: none;
+    margin-top: 100px;
     padding: 220px 0 120px 0;
     text-align: center;
+    margin-bottom: 20px;
 
-    &>div {
-      margin-bottom: 20px;
-
-      p {
-        font-size: 21px;
-        color: #fff;
-        text-shadow: 2px 2px 5px #909090;
-      }
-
+    p {
+      font-size: 21px;
+      color: #fff;
+      text-shadow: 2px 2px 5px #909090;
     }
+
+
+
   }
 }

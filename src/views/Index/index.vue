@@ -1,7 +1,6 @@
 <template>
-  <div style="position: relative;overflow: hidden;">
-    <div id="index" class="index clearfix">
-
+  <div style="position: relative;overflow: hidden;" class="clearfix">
+    <div id="index" class="index ">
       <div class="content">
         <div class="deep">
           <p> 灵巧盘带，她们翩翩闪耀绿茵舞台；</p>
@@ -58,7 +57,6 @@
             2022，四十年中国女足再出发。
           </p>
         </div>
-        <div class="light"></div>
       </div>
 
     </div>
@@ -69,12 +67,12 @@
       <el-image :src="gif2" fit="content"></el-image>
       <el-image :src="gif1" fit="content"></el-image>
     </div>
+    <!-- <div class="light"></div> -->
     <!-- <div>
       <div style=" height: 700px; background-color: #396836;">
         <p></p>
       </div>
     </div> -->
-    <div class="light"></div>
   </div>
 </template>
 <script>
@@ -83,11 +81,11 @@
     data() {
       return {
         img: require("@/assets/images/part1.webp"),
-        gif5: require("@/assets/images/5.GIF"),
-        gif4: require("@/assets/images/4.GIF"),
-        gif3: require("@/assets/images/3.GIF"),
-        gif2: require("@/assets/images/2.GIF"),
-        gif1: require("@/assets/images/1.GIF")
+        gif5: require("@/assets/images/5.gif"),
+        gif4: require("@/assets/images/4.gif"),
+        gif3: require("@/assets/images/3.gif"),
+        gif2: require("@/assets/images/2.gif"),
+        gif1: require("@/assets/images/1.gif")
       }
     }
   }

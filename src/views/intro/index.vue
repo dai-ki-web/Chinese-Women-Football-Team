@@ -1,11 +1,11 @@
 <template>
   <div class="intro" id="intro">
-    <div >
-      <div style="height: 140px; background-color: #507b40;"></div>
+    <div>
+      <div class="light"></div>
       <div class="title liner">
         <img src="../../assets/images/title1.png" class="titleimg" />
       </div>
-      <div style="height: 140px; background-color: #507b40;"></div>
+      <div class="light"></div>
       <div class="image">
         <el-image :src="img6" fit="contain" lazy></el-image>
       </div>
@@ -21,7 +21,8 @@
     </div>
     <section class="section">
       <p>在本场比赛中，中国队<span class="red">多项数据占优</span>：全场近60%的控球率，14次射门比对手韩国队多出3次， 6次射正也同样领先对手。</p>
-      <p>这场女足亚洲杯决赛的<span class="red">收视率数据同样亮眼</span>：中韩大战的收视率创历史新高地达到了2.44%。肖裕仪完成绝杀的巅峰时刻，共3745万人同时观看，收视率高达2.2%，<span class="red">排名全国第一</span>。中国女足在本次大赛中得到了前所未有的关注。</p>
+      <p>这场女足亚洲杯决赛的<span class="red">收视率数据同样亮眼</span>：中韩大战的收视率创历史新高地达到了2.44%。肖裕仪完成绝杀的巅峰时刻，共3745万人同时观看，收视率高达2.2%，<span
+          class="red">排名全国第一</span>。中国女足在本次大赛中得到了前所未有的关注。</p>
     </section>
     <!-- 电视 -->
     <div class="image">
@@ -29,7 +30,9 @@
     </div>
     <section class="section">
       <p>
-        1986年，中国女足首次参加女足亚洲杯就在决赛中2:0击败日本队，一举拿下冠军。自此便开创了中国女足在该项赛事上的辉煌历史：从1986年到1999年共七届亚洲杯，<span class="red">中国女足连夺七次冠军</span>，成为上世纪八九十年代绝对的亚洲女足霸主。如今，第9个亚洲杯冠军振奋人心，标志着中国女足在21世纪初的沉寂过后<span class="red">重返冠军之路</span>。
+        1986年，中国女足首次参加女足亚洲杯就在决赛中2:0击败日本队，一举拿下冠军。自此便开创了中国女足在该项赛事上的辉煌历史：从1986年到1999年共七届亚洲杯，<span
+          class="red">中国女足连夺七次冠军</span>，成为上世纪八九十年代绝对的亚洲女足霸主。如今，第9个亚洲杯冠军振奋人心，标志着中国女足在21世纪初的沉寂过后<span
+          class="red">重返冠军之路</span>。
       </p>
       <p>本届亚洲杯中国队共由7名球员打进19粒进球，分别是3名前锋：王霜、王珊珊和张琳艳和4名中场唐佳丽、张馨、肖裕仪和吴舒澄。</p>
       <p>
