@@ -7,6 +7,7 @@
       <historyPage></historyPage>
       <memoryPage>?</memoryPage>
       <problemPage></problemPage>
+      <endPage></endPage>
     </div>
 
   </div>
@@ -18,6 +19,7 @@
   import historyPage from '@/views/history/index'
   import memoryPage from '@/views/memory/index'
   import problemPage from '@/views/problem/index'
+  import endPage from '@/views/end/index'
   export default {
     name: "App",
     components: {
@@ -26,7 +28,8 @@
       introPage,
       historyPage,
       memoryPage,
-      problemPage
+      problemPage,
+      endPage
     }
   }
 </script>

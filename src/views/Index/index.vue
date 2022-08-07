@@ -27,12 +27,12 @@
             再到2022涅槃夺冠
           </p>
         </div>
-       <div class="deep">
+        <div class="deep">
           <p> 隐藏在成绩背后的</p>
           <p>
             是人才选拔、联赛模式、青训机制</p>
           <p>等一系列发展中面临的问题</p>
-       </div>
+        </div>
         <div class="light">
           <p>与男足相比，</p>
           <p>
@@ -45,20 +45,22 @@
           <p>
             如今再一次登顶亚洲的女足希望与挑战兼备，</p>
           <p>危机与机遇并存</p>
-       </div>
-       <div class="light" style="line-height: 40px">
+        </div>
+        <div class="light" style="line-height: 40px">
           <p>风雨彩虹，铿锵玫瑰。</p>
           <p>
             忆往昔岁月，峥嵘巾帼盖须眉；
           </p>
         </div>
-        <div class="depp" style="line-height: 40px">
+        <div class="deep" style="line-height: 40px">
           <p>望漫漫前路，光明灿烂犹可盼。</p>
           <p>
             2022，四十年中国女足再出发。
           </p>
         </div>
+        <div class="light"></div>
       </div>
+
     </div>
     <div class="headImg">
       <el-image :src="gif5" fit="content"></el-image>
@@ -67,11 +69,12 @@
       <el-image :src="gif2" fit="content"></el-image>
       <el-image :src="gif1" fit="content"></el-image>
     </div>
-    <div>
+    <!-- <div>
       <div style=" height: 700px; background-color: #396836;">
         <p></p>
       </div>
-    </div>
+    </div> -->
+    <div class="light"></div>
   </div>
 </template>
 <script>
@@ -80,11 +83,11 @@
     data() {
       return {
         img: require("@/assets/images/part1.webp"),
-        gif5: require("@/assets/images/5.gif"),
-        gif4: require("@/assets/images/4.gif"),
-        gif3: require("@/assets/images/3.gif"),
-        gif2: require("@/assets/images/2.gif"),
-        gif1: require("@/assets/images/1.gif")
+        gif5: require("@/assets/images/5.GIF"),
+        gif4: require("@/assets/images/4.GIF"),
+        gif3: require("@/assets/images/3.GIF"),
+        gif2: require("@/assets/images/2.GIF"),
+        gif1: require("@/assets/images/1.GIF")
       }
     }
   }

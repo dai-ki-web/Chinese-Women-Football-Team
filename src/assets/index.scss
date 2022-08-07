@@ -130,21 +130,21 @@ body {
     // line-height: 140px;
   }
 
-  .deep,
-  .light {
-    height: 140px;
-  }
 
-  .deep {
-    background-color: #396836;
-  }
-
-  .light {
-    background-color: #507b40;
-  }
 }
 
+.deep,
+.light {
+  height: 140px;
+}
 
+.deep {
+  background-color: #396836;
+}
+
+.light {
+  background-color: #507b40;
+}
 
 .intro {
   margin: 0;
@@ -234,27 +234,7 @@ body {
     }
   }
 
-  .liner-end {
-    background: linear-gradient(#fff, #a93b2a);
-    border: none;
-    margin-top: 100px;
 
-    &>div {
-      padding: 220px 0 120px 0;
-      text-align: center;
-
-      &>div {
-        margin-bottom: 20px;
-
-        p {
-          font-size: 21px;
-          color: #fff;
-          text-shadow: 2px 2px 5px #909090;
-        }
-
-      }
-    }
-  }
 
   .el-divider {
     background-color: #adadad;
@@ -312,7 +292,9 @@ body {
   background-color: #396836;
   padding: 0 10px;
 
+
   .el-button--text a {
+    position: relative;
     font-size: 16px;
     color: white;
     letter-spacing: 2px;
@@ -324,7 +306,7 @@ body {
       position: absolute;
       height: 80%;
       width: 1px;
-      background-color: #507b40;
+      background-color: white;
       top: 50%;
       right: -5px;
       transform: translateY(-50%);
@@ -399,7 +381,7 @@ body {
 .memory {
   padding: 40px 0;
   position: relative;
-  
+
   .background {
     padding: 40px 0;
     position: relative;
@@ -462,4 +444,26 @@ body {
 
 .img_marquee {
   height: 500px;
+}
+
+.liner-end {
+  background: linear-gradient(#fff, #a93b2a);
+  border: none;
+  margin-top: 100px;
+
+  &>div {
+    padding: 220px 0 120px 0;
+    text-align: center;
+
+    &>div {
+      margin-bottom: 20px;
+
+      p {
+        font-size: 21px;
+        color: #fff;
+        text-shadow: 2px 2px 5px #909090;
+      }
+
+    }
+  }
 }
