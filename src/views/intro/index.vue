@@ -2,6 +2,7 @@
   <div class="intro" id="intro">
     <div>
       <div class="light"></div>
+      <iframe src='https://flo.uri.sh/visualisation/10820722/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/10820722/?utm_source=embed&utm_campaign=visualisation/10820722' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
       <div class="title liner">
         <img src="../../assets/images/title1.png" class="titleimg" />
       </div>
@@ -25,9 +26,7 @@
           class="red">排名全国第一</span>。中国女足在本次大赛中得到了前所未有的关注。</p>
     </section>
     <!-- 电视 -->
-    <div class="image">
-      <el-image :src="img8" fit="contain" lazy></el-image>
-    </div>
+    <iframe src='https://flo.uri.sh/visualisation/10744279/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/10744279/?utm_source=embed&utm_campaign=visualisation/10744279' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
     <section class="section">
       <p>
         1986年，中国女足首次参加女足亚洲杯就在决赛中2:0击败日本队，一举拿下冠军。自此便开创了中国女足在该项赛事上的辉煌历史：从1986年到1999年共七届亚洲杯，<span
@@ -40,9 +39,7 @@
       </p>
       <p>中国女足<span class="red">前锋队员的优异表现</span>和<span class="red">整支队伍的集体组织与有序合作</span>，为中国队在本届女足亚洲杯上一举夺冠奠定了良好的基础。</p>
     </section>
-    <div class="image">
-      <el-image :src="img10" fit="contain" lazy></el-image>
-    </div>
+    <iframe src='https://flo.uri.sh/visualisation/10723948/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:900px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/10723948/?utm_source=embed&utm_campaign=visualisation/10723948' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
     <marquee behavior="scroll" direction="left" align="center" scrollamount="50">
       <img src="../../assets/images/11.png" class="img_marquee">
       <img src="../../assets/images/12.jpeg" class="img_marquee">
