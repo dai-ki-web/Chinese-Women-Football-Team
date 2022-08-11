@@ -20,7 +20,7 @@
             中国女足饱经风雨，尝尽沉浮
           </p>
         </div>
-        <div class="light" style="line-height: 40px">
+        <div class="light" style="line-height: 40px; ">
           <p>从亚洲之巅、世界第二到跌落谷底，</p>
           <p>
             再到2022涅槃夺冠
@@ -39,19 +39,18 @@
           </p>
           <p>受关注度低，困境更多，压力更大</p>
         </div>
-        <div class="deep">
+        <div class="deep" style="line-height: 40px; ">
           <p>四十年峥嵘岁月，</p>
           <p>
-            如今再一次登顶亚洲的女足希望与挑战兼备，</p>
-          <p>危机与机遇并存</p>
+            如今再一次登顶亚洲的女足</p>
         </div>
-        <div class="light" style="line-height: 40px">
-          <p>风雨彩虹，铿锵玫瑰。</p>
+        <div class="light" style="line-height: 40px; ">
+          <p>希望与挑战兼备，危机与机遇并存。</p>
           <p>
             忆往昔岁月，峥嵘巾帼盖须眉；
           </p>
         </div>
-        <div class="deep" style="line-height: 40px">
+        <div class="deep" style="line-height: 40px; ">
           <p>望漫漫前路，光明灿烂犹可盼。</p>
           <p>
             2022，四十年中国女足再出发。

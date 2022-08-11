@@ -4,6 +4,13 @@
     <div class="title">
       <img src="../../assets/images/title4.png" class="titleimg" />
     </div>
+    <div class="proNav">
+      <el-button type="text" class="Probutton"><a href="#a">选才困境</a></el-button>
+      <span class="line">|</span>
+      <el-button type="text" class="Probutton"><a href="#b">成长困境</a></el-button>
+      <span class="line">|</span>
+      <el-button type="text" class="Probutton"><a href="#c">关注困境</a></el-button>
+    </div>
     <div class="liner-title">
       <div style="height: 30px;"></div>
       <div>
@@ -28,11 +35,6 @@
         </div>
         <p>......</p>
       </div>
-    </div>
-    <div class="proNav">
-      <el-button type="text"><a href="#a">(a)选才困境</a> </el-button>
-      <el-button type="text"><a href="#b">(b)成长困境</a></el-button>
-      <el-button type="text"><a href="#c">(c)关注困境</a></el-button>
     </div>
 
     <!-- a -->

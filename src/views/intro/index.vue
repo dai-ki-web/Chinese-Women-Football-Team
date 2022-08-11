@@ -6,17 +6,17 @@
       <div class="title liner">
         <img src="../../assets/images/title1.png" class="titleimg" />
       </div>
-      <div class="light"></div>
+      <div>
+        <section class="section">
+        <p>2022年2月6日，时隔十四年重返亚洲杯决赛的中国女足，在印度新孟买的DY Patil体育场与韩国女足展开较量。中国队在落后两球的不利情况下连扳三球，最终3∶2逆转击败韩国队获得冠军。
+          十六载蛰伏，一举问鼎亚洲之巅，中国女足收获了<span class="red">历史上第九个亚洲杯冠军</span>。
+        </p>
+        </section>
+      </div>
       <div class="image">
         <el-image :src="img6" fit="contain" lazy></el-image>
       </div>
-
     </div>
-    <section class="section">
-      <p>2022年2月6日，时隔十四年重返亚洲杯决赛的中国女足，在印度新孟买的DY Patil体育场与韩国女足展开较量。中国队在落后两球的不利情况下连扳三球，最终3∶2逆转击败韩国队获得冠军。
-        十六载蛰伏，一举问鼎亚洲之巅，中国女足收获了<span class="red">历史上第九个亚洲杯冠军</span>。
-        女足姑娘们一点一滴的汗水化作露珠，浇灌着铿锵玫瑰再一次绽放。</p>
-    </section>
     <div class="image">
       <el-image :src="img7" fit="contain" lazy></el-image>
     </div>

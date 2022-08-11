@@ -286,7 +286,7 @@ body {
 }
 
 .proNav {
-  text-align: left;
+  text-align: center;
   background-color: #396836;
   padding: 0 10px;
 
@@ -299,16 +299,15 @@ body {
     outline: none;
     text-decoration: none;
 
-    &::after {
-      content: "";
-      position: absolute;
-      height: 80%;
-      width: 1px;
-      background-color: white;
-      top: 50%;
-      right: -5px;
-      transform: translateY(-50%);
-    }
+    
+  }
+  .line {
+    height: 80%;
+    width: 1px;
+    color: white;
+    top: 50%;
+    right: -5px;
+    transform: translateY(-50%);
   }
 }
 
@@ -329,10 +328,9 @@ body {
   }
 
   .hisNav {
-    text-align: left;
+    text-align: center;
     background-color: #396836;
     padding: 0 10px;
-
 
     .el-button--text a {
       position: relative;
@@ -341,17 +339,13 @@ body {
       letter-spacing: 2px;
       outline: none;
       text-decoration: none;
+    }
 
-      &::after {
-        content: "";
-        position: absolute;
-        height: 80%;
-        width: 1px;
-        background-color: white;
-        top: 50%;
-        right: -5px;
-        transform: translateY(-50%);
-      }
+    .line {
+      height: 80%;
+      width: 1px;
+      color: white;
+      top: 50%;
     }
   }
 
@@ -463,3 +457,14 @@ body {
 
   }
 }
+
+.Hisbutton {
+  width: 19%;
+  text-align: center;
+}
+
+.Probutton {
+  width: 32%;
+  text-align: center;
+}
+

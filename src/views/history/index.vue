@@ -4,12 +4,16 @@
       <img src="../../assets/images/title2.png" class="titleimg" />
     </div>
     <div>
-      <div class="hisNav">
-        <el-button type="text"><a href="#1">蹴鞠渊源</a> </el-button>
-        <el-button type="text"><a href="#2">历届赛事</a></el-button>
-        <el-button type="text"><a href="#3">队员分布</a></el-button>
-        <el-button type="text"><a href="#4">服役年限</a></el-button>
-        <el-button type="text"><a href="#5">历任主帅</a></el-button>
+      <div class="hisNav" style="text-align: center;">
+        <el-button type="text" class="Hisbutton"><a href="#1">蹴鞠渊源</a></el-button>
+        <span class="line">|</span>
+        <el-button type="text" class="Hisbutton"><a href="#2">历届赛事</a></el-button>
+        <span class="line">|</span>
+        <el-button type="text" class="Hisbutton"><a href="#3">队员分布</a></el-button>
+        <span class="line">|</span>
+        <el-button type="text" class="Hisbutton"><a href="#4">服役年限</a></el-button>
+        <span class="line">|</span>
+        <el-button type="text" class="Hisbutton"><a href="#5">历任主帅</a></el-button>
       </div>
     </div>
 
