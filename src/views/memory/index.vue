@@ -90,6 +90,7 @@
           几十年间，和水指导并肩作战的人从与她<span class="red">同龄</span>的队友变成了<span class="red">晚她一辈的</span>队员们，但尽管相隔多年，铿锵玫瑰的基因一直流淌在女足姑娘的血液里。女足、女排、跳水、乒乓球、短道速滑，尽管项目不同，传承却是一样的。无畏风雨，薪火相传，这是中国体育事业的<span class="red">底色</span>。
         </p>
       </section>
+      <p style="text-align: center; color: #808080; ">（点击下方图片点亮中国体育事业）</p>
       <div class="black img34" @click="handleLight">
         <el-image :src="img34" fit="contain" :style="{opacity: lighted}"></el-image>
       </div>
