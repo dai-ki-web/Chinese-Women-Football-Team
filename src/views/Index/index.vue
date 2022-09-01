@@ -3,61 +3,35 @@
     <div id="index" class="index ">
       <div class="content">
         <div class="deep">
-          <p> 灵巧盘带，她们翩翩闪耀绿茵舞台；</p>
-          <p>
-            精准传球，她们撕破对手重重防线；
-          </p>
-        </div>
-        <div class="light">
-          <p>大力射门，她们硬朗诠释暴力美学；</p>
-          <p>
-            逆转绝杀，她们一如既往奔跑向前。
-          </p>
-        </div>
-        <div class="deep">
-          <p>被冠以「铿锵玫瑰」称谓的20年，</p>
+          <p>被冠以「铿锵玫瑰」称谓的20年</p>
           <p>
             中国女足饱经风雨，尝尽沉浮
           </p>
         </div>
-        <div class="light" style="line-height: 40px; ">
-          <p>从亚洲之巅、世界第二到跌落谷底，</p>
+        <div class="light">
+          <p>从世界第二跌落谷底</p>
           <p>
-            再到2022涅槃夺冠
+            如今涅槃重回亚洲之巅
           </p>
         </div>
         <div class="deep">
-          <p> 隐藏在成绩背后的</p>
+          <p>隐藏在成绩背后的</p>
           <p>
-            是人才选拔、联赛模式、青训机制</p>
-          <p>等一系列发展中面临的问题</p>
+            是比赛训练、人才选拔、球迷关注等一系列问题
+          </p>
         </div>
         <div class="light">
-          <p>与男足相比，</p>
+          <p>希望与困境兼具，机遇和挑战并存</p>
           <p>
-            女足职业球员少、发展路径窄、
-          </p>
-          <p>受关注度低，困境更多，压力更大</p>
-        </div>
-        <div class="deep" style="line-height: 40px; ">
-          <p>四十年峥嵘岁月，</p>
-          <p>
-            如今再一次登顶亚洲的女足</p>
-        </div>
-        <div class="light" style="line-height: 40px; ">
-          <p>希望与挑战兼备，危机与机遇并存。</p>
-          <p>
-            忆往昔岁月，峥嵘巾帼盖须眉；
+            忆往昔岁月，峥嵘巾帼盖须眉
           </p>
         </div>
-        <div class="deep" style="line-height: 40px; ">
-          <p>望漫漫前路，光明灿烂犹可盼。</p>
+        <div class="deep">
+          <p>望漫漫前路，光明灿烂犹可盼</p>
           <p>
-            2022，四十年中国女足再出发。
-          </p>
+           2022，四十年中国女足再出发</p>
         </div>
       </div>
-
     </div>
     <div class="headImg">
       <el-image :src="gif5" fit="content"></el-image>

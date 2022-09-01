@@ -86,7 +86,7 @@ body {
   padding-top: 50px;
   width: 100%;
   background-color: #396836;
-  height: 1260px;
+  height: 700px;
   // background: linear-gradient(#396836 25%, #507b40 0%, #507b40 50%, #396836 0%, #396836 75%, #507b40 0%, #507b40 100%, );
 
 
@@ -110,15 +110,15 @@ body {
     width: 100%;
 
     p {
-      text-align: center;
+      text-align: left;
       margin: 0;
       position: relative;
-      right: -30%;
+      right: -45%;
       padding: 10px 50px;
       font-size: 18px;
     }
 
-    &>div:nth-child(-n+3) p {
+    &>div:nth-child(-n+5) p {
       padding: 20px 10%;
     }
   }

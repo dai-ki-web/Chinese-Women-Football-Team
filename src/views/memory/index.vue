@@ -72,9 +72,8 @@
         <p>比赛最后阶段，韦海英接到孙庆梅的传球后左脚扣过巴西后卫，面对门将起脚劲射，皮球应声入网，<span class="red">3-2</span>！</p>
         <p>中国女足在最后时刻完成<span class="red">精彩逆转</span>，拿下了一场来之不易的逆转胜利。</p>
       </section>
-      <marquee behavior="scroll" direction="left" align="center" scrollamount="40">
+      <marquee behavior="scroll" direction="left" align="center" scrollamount="25">
         <img src="../../assets/images/28.png" class="img_marquee">
-        <img src="../../assets/images/29.jpeg" class="img_marquee">
         <img src="../../assets/images/30.jpeg" class="img_marquee">
         <img src="../../assets/images/31.jpeg" class="img_marquee">
         <img src="../../assets/images/32.jpeg" class="img_marquee">
@@ -96,9 +95,11 @@
       </div>
       <div style="height: 40px"></div>
       <section class="section highlight" style="text-shadow: none;">
-        <p> 不论是1996年逆战巴西，挺进奥运决赛，还是2022迎难而上，登顶亚洲之巅，以及未来的每一天，女足姑娘们一直如歌中所唱：</p>
-        <p><span class="red">“再多忧伤再多痛苦自己去背</span></p>
-        <p><span class="red">纵横四海笑傲天涯永不后退。”</span></p>
+        <p>不论是1996年逆战巴西，挺进奥运决赛</p>
+        <p>还是2022迎难而上，登顶亚洲之巅</p>
+        <p>女足姑娘们一直如歌中所唱：</p>
+        <p><span class="red" style="position: relative; right: 12px;">“再多忧伤再多痛苦自己去背</span></p>
+        <p><span class="red" style="position: relative; right: -18px;">纵横四海笑傲天涯永不后退。”</span></p>
         <br />
         <p>风雨之后是彩虹</p>
         <p>致永远的铿锵玫瑰</p>
