@@ -8,7 +8,7 @@
       </div>
       <div>
         <section class="section">
-        <p>2022年2月6日，时隔十四年重返亚洲杯决赛的中国女足，在印度新孟买的DY Patil体育场与韩国女足展开较量。中国队在落后两球的不利情况下连扳三球，最终3∶2逆转击败韩国队获得冠军。十六载蛰伏，一举问鼎亚洲之巅，中国女足收获了<span class="red">历史上第九个亚洲杯冠军</span>。
+        <p>2022年2月6日，时隔十四年重返亚洲杯决赛的中国女足，在印度新孟买的DY Patil体育场与韩国女足展开较量。中国队在落后两球的不利情况下连扳三球，最终<span class="red">3∶2逆转击败韩国队</span>获得冠军。十六载蛰伏，一举问鼎亚洲之巅，中国女足收获了<span class="red">历史上第九个亚洲杯冠军</span>。
         </p>
         </section>
       </div>
@@ -24,7 +24,7 @@
       <p>“怕什么啦？扳回来，<span class="red">我相信你们可以的！我对你们有信心！</span>后面有什么结果我来承担。”水庆霞指导让姑娘们<span class="red">重振旗鼓，抛下负担</span>，在更衣室中说道。</p>
       <p>女足姑娘们卯足了劲进入下半场，<span class="red">攻势明显加强</span>。第67分钟，韩国队送出点球，<span class="red">唐佳丽</span>稳稳命中，中国队扳回一城。仅仅过了5分钟，唐佳丽底线一个漂亮的人球分过后传中，替补登场的小将<span class="red">张琳艳</span>头球破门，中国女足将比分扳平！就在比赛还剩最后3分钟时，女足姑娘们在前场打出精妙配合，打穿韩国队防线，<span class="red">肖裕仪</span>接到直塞，单刀面对门将，稳稳将球射入门框远角，时间定格在92分57秒，中国女足<span class="red">让二追三逆转</span>，创造一个中国足球不敢想象的奇迹!</p>
       <p>正如《每个人都是答案》中所说：“这个冠军对于中国女足，乃至整个中国足球将产生的影响，也许可以延续数年。但对于真真正正在场上拼杀过的这23个姑娘来说，它最真实的意义在于——让她们<span class="red">重新找回了自信</span>。这种自信，在球场上所能爆发出的巨大力量，这场比赛本身已经为我们做了<span class="red">最好的诠释</span>。”</p>
-      <p>登上亚洲巅峰的这一刻，姑娘们的身后还有千千万关注着中国女足，关注着中国足球的国人们。每一个观众都分享着胜利的喜悦，亲眼见证着女足的荣耀：中韩大战的收视率创历史新高地达到了2.44%。肖裕仪完成绝杀的巅峰时刻，共3745万人同时观看，收视率高达2.2%，<span class="red">排名全国第一</span>。中国女足在本次大赛中得到了前所未有的关注。</p>
+      <p>登上亚洲巅峰的这一刻，姑娘们的身后还有千千万关注着中国女足，关注着中国足球的国人们。每一个观众都分享着胜利的喜悦，亲眼见证着女足的荣耀：中韩大战的CCTV5收视率创历史新高地达到了3.68%。肖裕仪完成绝杀的巅峰时刻，共3745万人同时观看，收视率高达2.2%，<span class="red">排名全国第一</span>。中国女足在本次大赛中得到了前所未有的关注。</p>
     </section>
     <!-- 电视 -->
     <iframe src='https://flo.uri.sh/visualisation/10744279/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/10744279/?utm_source=embed&utm_campaign=visualisation/10744279' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>

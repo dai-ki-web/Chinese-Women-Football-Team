@@ -56,11 +56,11 @@
           src='https://public.flourish.studio/resources/made_with_flourish.svg'
           style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
     <section class="section" id="3">
-      <p>回首40年峥嵘岁月，中国女足曾荣登亚洲之巅，也曾距离奥运会冠军仅一步之遥。</p>
-      <p>建队之初，中国女足势如破竹，连续拿下数个亚洲杯和亚运会的冠军，这支铁血之师也被国人冠以了“铿锵玫瑰”的称号。</p>
+      <p>回首40年峥嵘岁月，中国女足曾荣登<span class="red">亚洲之巅</span>，也<span class="red">曾距离奥运会冠军仅一步之遥</span>。</p>
+      <p>建队之初，中国女足势如破竹，连续拿下数个亚洲杯和亚运会的冠军，这支铁血之师也被国人冠以了<span class="red">“铿锵玫瑰”</span>的称号。</p>
       <p>2006年，中国女足世界排名上升到了第4名，这是史上最好成绩。</p>
-      <p>2008年取得亚洲杯冠军之后，中国女足进入了长达10多年的低谷期。不仅无缘冠军，甚至频频在半决赛、四分之一决赛折戟。2019年世界杯仅仅拿到了第16名的成绩。</p>
-      <p>从巅峰落到低谷，再重整士气厚积薄发，2022年的亚洲杯冠军，中国女足等了14年。</p>
+      <p>2008年取得亚洲杯冠军之后，中国女足进入了<span class="red">长达10多年的低谷期</span>。不仅无缘冠军，甚至频频在半决赛、四分之一决赛折戟。2019年世界杯仅仅拿到了第16名的成绩。</p>
+      <p>从巅峰落到低谷，再<span class="red">重整士气厚积薄发</span>，2022年的亚洲杯冠军，中国女足等了14年。</p>
     </section>
     <div class="dy-chart">
       <iframe src="https://dycharts.com/xshow/index.html?id=c_804811485c5ab015d5f69ee7c969c93a" width="100%" height=900
@@ -74,7 +74,7 @@
       </p>
       <p>
         辽宁足球曾经成绩出色，为国家队输送了大量的球员，是因为这里有全国最好的青训。如今，尽管辽宁青训已经不能算得上是国内一流的水平，但辽宁足球的底蕴为中国女足留下了扎实的根基。当前，辽宁打出<span
-          class="red">“足球振兴，女足先行”</span>的口号，以打造省属女足职业队为龙头，完善构建各级女足梯队，全新组建了2007/08和20/10两个年龄段的精英队伍，精耕女足培养，打造女足名片。
+          class="red">“足球振兴，女足先行”</span>的口号，以打造省属女足职业队为龙头，完善构建各级女足梯队，全新组建了07/08和09/10两个年龄段的精英队伍，精耕女足培养，打造女足名片。
       </p>
     </section>
     <iframe src="https://dycharts.com/xshow/index.html?id=c_cc30adb051ed1c6dd2eb4f809be24140" width="100%" height="700"

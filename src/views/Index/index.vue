@@ -14,10 +14,13 @@
             如今涅槃重回亚洲之巅
           </p>
         </div>
-        <div class="deep">
+        <div class="deep" style="line-height: 33.3%; ">
           <p>隐藏在成绩背后的</p>
           <p>
-            是比赛训练、人才选拔、球迷关注等一系列问题
+            是比赛训练、人才选拔、球迷关注
+          </p>
+          <p>
+            等一系列问题
           </p>
         </div>
         <div class="light">
