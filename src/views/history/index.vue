@@ -63,7 +63,7 @@
       <p>从巅峰落到低谷，再<span class="red">重整士气厚积薄发</span>，2022年的亚洲杯冠军，中国女足等了14年。</p>
     </section>
     <div class="dy-chart">
-      <iframe src="https://dycharts.com/xshow/index.html?id=c_804811485c5ab015d5f69ee7c969c93a" width="100%" height=900
+      <iframe src="https://dycharts.com/xshow/index.html?id=c_804811485c5ab015d5f69ee7c969c93a" width="100%" height=650px;
         scrolling="no" frameborder="0" align=""></iframe>
     </div>
     <section class="section" id="4">
