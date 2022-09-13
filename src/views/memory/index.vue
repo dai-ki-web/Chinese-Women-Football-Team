@@ -20,7 +20,7 @@
       </section>
       <div style="margin:0 auto ;width:80%">
         <iframe src='https://flo.uri.sh/visualisation/10751724/embed' title='Interactive or visual content'
-          class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:1200px;'
+          class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;'
           sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
         <div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit'
             href='https://public.flourish.studio/visualisation/10751724/?utm_source=embed&utm_campaign=visualisation/10751724'

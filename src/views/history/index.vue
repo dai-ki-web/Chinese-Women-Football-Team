@@ -92,7 +92,7 @@
           class="red">优化国家队年龄结构</span>，是提升中国女足大赛成绩的关键之一。</p>
     </section>
     <iframe src='https://flo.uri.sh/visualisation/10711261/embed' title='Interactive or visual content'
-      class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:900px;'
+      class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:800px;'
       sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
     <div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit'
         href='https://public.flourish.studio/visualisation/10711261/?utm_source=embed&utm_campaign=visualisation/10711261'
@@ -100,10 +100,10 @@
           src='https://public.flourish.studio/resources/made_with_flourish.svg'
           style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
     <section class="section">
-      <p>1984年初建中国女足时的主教练丛者余，是中国女足的“奠基人“。在他的带领下，年轻的中国女足国家队涌现出钟红莲、水庆霞、牛丽杰等一大批有特点的出色球员。
-        1986年，丛者余带领中国女足夺得第六届亚洲杯冠军，那不仅是中国女足第一次在洲际比赛中获得冠军，也是中国足球获得的第一座洲际冠军奖杯，是一个标志性的起点。他是中国女足不折不扣的“缔造者”。</p>
+      <p>1984年初建中国女足时的主教练丛者余，是<span class="red">中国女足的“奠基人”</span>。在他的带领下，年轻的中国女足国家队涌现出钟红莲、水庆霞、牛丽杰等一大批有特点的出色球员。
+        1986年，丛者余带领中国女足夺得第六届亚洲杯冠军，那不仅是中国女足第一次在洲际比赛中获得冠军，也是<span class="red">中国足球获得的第一座洲际冠军奖杯</span>，是一个标志性的起点。他是中国女足不折不扣的“缔造者”。</p>
       <p>
-        女足最辉煌时期的主帅是马元安，“铿锵玫瑰”从那个时代开始真正成为了中国女足的代称。马元安从1992年到2001年带队，在九年间将男子足球的技战术元素注入女子足球，拿到了奥运会和世界杯的双亚军成绩，使女足逐渐走入了国人的视野中。他堪称中国女足的“教父”。
+        女足最辉煌时期的主帅是马元安，<span class="red">“铿锵玫瑰”从那个时代开始真正成为了中国女足的代称</span>。马元安从1992年到2001年带队，在九年间将男子足球的技战术元素注入女子足球，拿到了奥运会和世界杯的双亚军成绩，使女足逐渐走入了国人的视野中。他堪称中国女足的“教父”。
       </p>
       <p>从2002年开始，中国女足主帅频繁更迭。</p>
       <p>2007年，瑞典人多曼斯基上任，这是<span class="red">中国女足首位外籍主帅</span>，但仅仅7个月后就离任。之后，女足还有过两任外籍教练，执教时间均不长。</p>
