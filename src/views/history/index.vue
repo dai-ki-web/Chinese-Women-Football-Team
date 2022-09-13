@@ -92,7 +92,7 @@
           class="red">优化国家队年龄结构</span>，是提升中国女足大赛成绩的关键之一。</p>
     </section>
     <iframe src='https://flo.uri.sh/visualisation/10711261/embed' title='Interactive or visual content'
-      class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:800px;'
+      class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:650px;'
       sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
     <div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit'
         href='https://public.flourish.studio/visualisation/10711261/?utm_source=embed&utm_campaign=visualisation/10711261'
